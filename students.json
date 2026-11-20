@@ -1,0 +1,28 @@
+
+[
+    {
+        "name": "Ali Valiyev",
+        "marks": 65,
+        "city": "Tashkent"
+    },
+    {
+        "name": "John Smith",
+        "marks": 90,
+        "city": "Samarkand"
+    },
+    {
+        "name": "Hasan Karimov",
+        "marks": 45,
+        "city": "Bukhara"
+    },
+    {
+        "name": "Bobur Ahmedov",
+        "marks": 78,
+        "city": "Andijan"
+    },
+    {
+        "name": "Ibrohim Khudoyberdiyev",
+        "marks": 85,
+        "city": "Angren"
+    }
+]
